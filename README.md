@@ -1,3 +1,3 @@
 # radionova
 
-Radio Nova Player
+Radio Nova Player pour Chrome Extension
